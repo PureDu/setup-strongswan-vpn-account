@@ -1,7 +1,7 @@
 ## How to use
 
 ```
-wget -L -O https://raw.githubusercontent.com/zackdevine/setup-strongswan-vpn-account/master/setup-vpn-account.sh
+curl -L -O https://raw.githubusercontent.com/zackdevine/setup-strongswan-vpn-account/master/setup-vpn-account.sh
 sudo chmod +X setup-vpn-account.sh
 sudo ./setup-vpn-account.sh
 ```
