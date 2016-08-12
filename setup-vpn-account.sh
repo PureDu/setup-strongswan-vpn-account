@@ -2,7 +2,7 @@
 
 #  Setup StrongSwan VPN Account
 #
-#  Copyright (c) 2016 Zack Devine <zdevine@me.com>
+#  Copyright (c) 2016 Zack Devine <zack@zdevine.me>
 #  Adapted from Phil Plückthun's 'setup-strong-strongswan' script.
 #  https://github.com/philpl/setup-strong-strongswan
 #
